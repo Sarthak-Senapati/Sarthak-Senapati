@@ -12,7 +12,7 @@
 🔹 [Azure DevOps CI/CD Pipeline](https://github.com/yourprojectlink)  
 
 ## 📫 Connect with Me  
-[LinkedIn](www.linkedin.com/in/sarthak-ranjan-senapat) | [Portfolio](https://yourwebsite.com) | [Email](senapatisarthakenapati@gmail.com)
+[LinkedIn](www.linkedin.com/in/sarthak-ranjan-senapat) | [Portfolio](https://yourwebsite.com) | [Email](mailto:senapatisarthakenapati@gmail.com)
 
 
 <!--
